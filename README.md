@@ -1,6 +1,6 @@
 # Hello there!
 
-##You can call me Rai.
+## You can call me Rai.
 
 <!--
 **rai68/rai68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
