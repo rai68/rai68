@@ -2,12 +2,12 @@
 
 I'm ✨Rai✨ 18 from Australia, I have an interest in creating internet applications. Right now i dabble into front-end, and the back-end of Web. 
 
-##Intermediate
+## Intermediate
 
 I have an intermediate understanding of:
 - Vanilla HTML/JS/CSS
 
-##Basic
+## Basic
 
 I have basic knowlege in:
 - Python specifically MicroPython.
@@ -15,12 +15,12 @@ I have basic knowlege in:
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
 
-##I want to learn:
+## I want to learn:
 - Apache2
 - Nginx
 - Kubernetes
 
-##What i use
+## What i use
 
 I primarily use:
 - NodeJS
