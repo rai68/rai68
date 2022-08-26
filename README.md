@@ -23,7 +23,7 @@ I have basic knowlege in:
 - [Vue](https://vuejs.org/)
 - [Flask](https://flask.palletsprojects.com/)
 
-## What i use
+## What I use:
 
 I primarily use:
 - NodeJS
