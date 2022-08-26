@@ -1,19 +1,29 @@
 # Hello there!
 
-I'm Rai I like to make random network stuff with code.
-I use:
-- Test
-<!--
-**rai68/rai68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ✨Rai✨ 18 from Australia, I have an interest in creating internet applications. Right now i dabble into front-end, and the back-end of Web. 
 
-Here are some ideas to get you started:
+##Intermediate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an intermediate understanding of:
+- Vanilla HTML/JS/CSS
+
+##Basic
+
+I have basic knowlege in:
+- Python specifically MicroPython.
+- C#, .NET 6.
+- Minecraft modding using Java.
+- OpenComputers programming via Lua.
+
+##I want to learn:
+- Apache2
+- Nginx
+- Kubernetes
+
+##What i use
+
+I primarily use:
+- NodeJS
+- Docker
+- Ubuntu
+
