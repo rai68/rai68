@@ -1,7 +1,8 @@
 # Hello there!
 
-## You can call me Rai.
-
+I'm Rai I like to make random network stuff with code.
+I use:
+- Test
 <!--
 **rai68/rai68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
