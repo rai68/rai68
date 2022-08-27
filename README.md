@@ -19,7 +19,9 @@ I have basic knowlege in:
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
 
-## I want to learn:
+## Future
+
+I want to learn more about: 
 - Apache2
 - Nginx
 - Kubernetes
@@ -32,4 +34,5 @@ I primarily use:
 - NodeJS
 - Docker
 - Ubuntu
+- Apache2
 
