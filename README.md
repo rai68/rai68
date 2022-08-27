@@ -6,11 +6,14 @@ I'm ✨Rai✨ 18 from Australia, I have an interest in programming micro control
 
 I have an intermediate understanding of:
 - Vanilla HTML/JS/CSS
-- [jQuery](https://jquery.com/)
+- [EJS](https://ejs.co/)
+
 
 ## Basic
 
 I have basic knowlege in:
+- [jQuery](https://jquery.com/)
+- [Vue](https://vuejs.org/)
 - Python specifically MicroPython.
 - C#, .NET 6.
 - Minecraft modding using Java.
