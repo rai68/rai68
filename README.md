@@ -37,3 +37,7 @@ I primarily use:
 - Ubuntu
 - Apache2
 
+# Engineering
+
+I also do a bit of electrical engineering as well, and programming micro devices in MicroPython as well as c/c++
+
