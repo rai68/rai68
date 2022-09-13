@@ -7,6 +7,7 @@ I'm ✨Rai✨ 18 from Australia, I have an interest in programming micro control
 I have an intermediate understanding of:
 - Vanilla HTML/JS/CSS
 - [EJS](https://ejs.co/)
+- NodeJS
 
 
 ## Basic
