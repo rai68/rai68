@@ -19,6 +19,7 @@ I have basic knowlege in:
 - C#, .NET 6.
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
+- GoLang
 
 ## Future
 
