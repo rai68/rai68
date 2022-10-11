@@ -9,6 +9,12 @@ I have an intermediate understanding of:
 - [EJS](https://ejs.co/)
 - NodeJS
 
+- Debian Linux
+- Windows 10
+- Dockerio
+- cPanel
+- Proxmox 7.1
+
 
 ## Basic
 
@@ -20,6 +26,8 @@ I have basic knowlege in:
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
 - GoLang
+
+- Windows Server 2019
 
 ## Future
 
