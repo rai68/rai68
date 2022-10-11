@@ -2,23 +2,14 @@
 
 I'm ✨Rai✨ 18 from Australia, I have an interest in programming micro controllers, creating internet applications, and network administation.
 
-## Intermediate
+## Languages
 
-I have an intermediate understanding of:
+### Intermediate
 - Vanilla HTML/JS/CSS
 - [EJS](https://ejs.co/)
 - NodeJS
 
-- Debian Linux
-- Windows 10
-- Dockerio
-- cPanel
-- Proxmox 7.1
-
-
-## Basic
-
-I have basic knowlege in:
+### Basic
 - [jQuery](https://jquery.com/)
 - [Vue](https://vuejs.org/)
 - Python specifically MicroPython.
@@ -27,24 +18,31 @@ I have basic knowlege in:
 - OpenComputers programming via Lua.
 - GoLang
 
+## Softwares
+
+I use these applications/OS's 
+### Intermediate
+- Debian Linux
+- Windows 10
 - Windows Server 2019
+- OpenWRT
+
+### Basic
+- Dockerio
+- cPanel
+- Proxmox 7.1
+- MQTT
+- NodeJS
+- Apache2
 
 ## Future
 
-I want to learn more about: 
+in the future i want to learn more about: 
 - Apache2
 - Nginx
 - Kubernetes
 - [Vue](https://vuejs.org/)
 - [Flask](https://flask.palletsprojects.com/)
-
-## What I use:
-
-I primarily use:
-- NodeJS
-- Docker
-- Ubuntu
-- Apache2
 
 # Engineering
 
