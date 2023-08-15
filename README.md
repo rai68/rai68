@@ -17,6 +17,7 @@ I'm ✨Rai✨ 18 from Australia, I have an interest in cybersecurity, software d
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
 - GoLang
+- C/C++ , Arduino
 
 ## Softwares
 
