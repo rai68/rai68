@@ -8,11 +8,11 @@ I'm ✨Rai✨ 18 from Australia, I have an interest in cybersecurity, software d
 - Vanilla HTML/JS/CSS
 - [EJS](https://ejs.co/)
 - NodeJS
+- Python
 
 ### Basic
 - [jQuery](https://jquery.com/)
 - [Vue](https://vuejs.org/)
-- Python specifically MicroPython.
 - C#, .NET 6.
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
