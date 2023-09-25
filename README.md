@@ -36,15 +36,6 @@ I use these applications/OS's
 - NodeJS
 - Apache2
 
-## Future
-
-in the future i want to learn more about: 
-- Apache2
-- Nginx
-- Kubernetes
-- [Vue](https://vuejs.org/)
-- [Flask](https://flask.palletsprojects.com/)
-
 # Engineering
 
 I also do a bit of electrical engineering as well, and programming micro devices in MicroPython as well as c/c++
