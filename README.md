@@ -7,7 +7,7 @@ I'm ✨Rai✨ 19 from Australia, I have an interest in cybersecurity, software d
 ### Advanced
 - Vanilla HTML/JS/CSS
 - NodeJS
-- 
+
 ### Intermediate
 - [EJS](https://ejs.co/)
 - Python
