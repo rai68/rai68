@@ -13,7 +13,7 @@ I'm ✨Rai✨ 19 from Australia, I have an interest in cybersecurity, software d
 - Python
 - C/C++ , Arduino
 - GoLang
-- 
+
 ### Basic
 - [jQuery](https://jquery.com/)
 - [Vue](https://vuejs.org/)
