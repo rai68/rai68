@@ -4,20 +4,22 @@ I'm ✨Rai✨ 19 from Australia, I have an interest in cybersecurity, software d
 
 ## Languages
 
-### Intermediate
+### Advanced
 - Vanilla HTML/JS/CSS
-- [EJS](https://ejs.co/)
 - NodeJS
+- 
+### Intermediate
+- [EJS](https://ejs.co/)
 - Python
-
+- C/C++ , Arduino
+- GoLang
+- 
 ### Basic
 - [jQuery](https://jquery.com/)
 - [Vue](https://vuejs.org/)
 - C#, .NET 6.
 - Minecraft modding using Java.
 - OpenComputers programming via Lua.
-- GoLang
-- C/C++ , Arduino
 
 ## Softwares
 
@@ -27,9 +29,11 @@ I use these applications/OS's
 - Windows 10
 - Windows Server 2019
 - OpenWRT
+- Dockerio]
+- AWS
 
 ### Basic
-- Dockerio
+
 - cPanel
 - Proxmox 7.1
 - MQTT
