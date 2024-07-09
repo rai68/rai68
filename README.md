@@ -1,16 +1,16 @@
 # Hello there!
 
-I'm ✨Rai✨ 19 from Australia, I have an interest in cybersecurity, software development and most importantly network architecture. I enjoy challenges and helping others and have a great ability to problem solve.
+I'm ✨Rai✨ 20 from Australia, I have an interest in cybersecurity, software development and most importantly network architecture. I enjoy challenges and helping others and have a great ability to problem solve.
 
 ## Languages
 
 ### Advanced
 - Vanilla HTML/JS/CSS
 - NodeJS
-
+- Python
+- 
 ### Intermediate
 - [EJS](https://ejs.co/)
-- Python
 - C/C++ , Arduino
 - GoLang
 
@@ -29,7 +29,7 @@ I use these applications/OS's
 - Windows 10
 - Windows Server 2019
 - OpenWRT
-- Dockerio]
+- Dockerio
 - AWS
 
 ### Basic
