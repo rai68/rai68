@@ -8,7 +8,8 @@ I'm ✨Rai✨ 20 from Australia, I have an interest in cybersecurity, software d
 - Vanilla HTML/JS/CSS
 - NodeJS
 - Python
-- 
+- Lua
+
 ### Intermediate
 - [EJS](https://ejs.co/)
 - C/C++ , Arduino
@@ -18,10 +19,9 @@ I'm ✨Rai✨ 20 from Australia, I have an interest in cybersecurity, software d
 - [jQuery](https://jquery.com/)
 - [Vue](https://vuejs.org/)
 - C#, .NET 6.
-- Minecraft modding using Java.
-- OpenComputers programming via Lua.
+- Java,
 
-## Softwares
+## Software
 
 I use these applications/OS's 
 ### Intermediate
