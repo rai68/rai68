@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm ✨Rai✨ 20 from Australia, I have an interest in cybersecurity, software development and most importantly network architecture. I enjoy challenges and helping others and have a great ability to problem solve.
+i code
 
 ## Languages
 
